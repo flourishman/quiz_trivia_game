@@ -39,9 +39,10 @@ questions = []
     
 def add_questions():
     question = input("Type in the new question: ")
-    
-    if options <= 4:
-        options = input("Enter answer options: ")
+    options = []
+    for option in range(1, 5):
+        opt = input(f"Enter answer options: {option}")
+        options.append(opt)
         
     answer = input("Enter correct answer from the options: ")
     
