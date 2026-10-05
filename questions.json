@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What color is Nigeria flag?",
+        "option": ["Green White Green", "Red", "Blue", "Black"],
+        "answer": "Green White Green"
+    },
+    {
+        "question": "Who is the head of the family?",
+        "option": ["Mother", "Boy", "Father", "Uncle"],
+        "answer": "Father"
+    }
+
+]
